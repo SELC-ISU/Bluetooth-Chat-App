@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Messenger</string>
+    <string name="sendButtonText">Act as Sender</string>
+    <string name="receiveButtonText">Act as Receiver</string>
+    <string name="message_to_send">Message to Send</string>
+    <string name="send_text">Send it</string>
+    <string name="be_server_side">Click to Be Sender side</string>
+    <string name="be_receiver_side">Click to Be Receiver side</string>
+    <string name="status_not_connected">Not Connected</string>
+    <string name="button_connect">Connect</string>
+    <string name="button_voice_to_text">Voice To Text</string>
+    <string name="hint_input">Input some text</string>
+    <string name="button_send_bluetooth">Send with Bluetooth</string>
+    <string name="button_send_flash">Send with Flashes</string>
+    <string name="button_red">Show Red</string>
+    <string name="button_black">Show Black</string>
+    <string name="button_white">Show White</string>
+    <string name="button_stop_sensor">Stop Sensor/Act as Sender</string>
+    <string name="button_bluetooth">Bluetooth</string>
+    <string name="button_flashes">Flashes</string>
+    <string name="text_paired_devices">Paired Devices</string>
+    <string name="text_discovered">Discovered Devices</string>
+    <string name="format_light_val">value: %f</string>
+</resources>
